@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Release\Kurs ishi.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Release\Kurs ishi.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Release\Kurs ishi.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Release\Kurs_ishi.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Release\Kurs_ishi.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Release\Kurs ishi.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Release\Kurs ishi.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Release\Kurs ishi.pdb

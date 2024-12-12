@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.exe
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.pdb
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs_ishi.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs_ishi.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.exe
+c:\users\user\documents\visual studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.pdb
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.exe.config
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.exe
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.pdb
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.exe
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\bin\Debug\Kurs ishi.pdb
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs_ishi.Form1.resources
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs_ishi.Properties.Resources.resources
+C:\Users\user\Desktop\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Kurs ishi\Kurs ishi\obj\Debug\Kurs ishi.csproj.CoreCompileInputs.cache
